@@ -27,6 +27,8 @@ def merge(assert_answer,answers):
     fresh_txt=assert_answer.format(*answers)
     print(fresh_txt)
     return fresh_txt
+
+    print("ahmad")
      
 
 
